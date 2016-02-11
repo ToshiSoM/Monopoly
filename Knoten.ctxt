@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=karte1
+comment0.target=Knoten(Feldinhalt)
+comment0.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Knoten\r\n
+comment1.params=
+comment1.target=Knoten\ naechsterGeben()
+comment2.params=angabeKnoten
+comment2.target=void\ naechsterSetzen(Knoten)
+comment3.params=
+comment3.target=Feldinhalt\ karteGeben()
+comment4.params=
+comment4.target=int\ posGeben()
+numComments=5

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=spieler\ startguthaben
+comment0.target=Spiel(int,\ int)
+comment1.params=
+comment1.target=Spieler\ aktuellerSpieler()
+comment2.params=sp
+comment2.target=void\ aktuellerSpielersetzen(Spieler)
+comment3.params=
+comment3.target=int\ wuerfeln()
+comment4.params=pos
+comment4.target=Knoten\ knotenGeben(int)
+comment5.params=
+comment5.target=void\ anzahlAktualisieren()
+numComments=6

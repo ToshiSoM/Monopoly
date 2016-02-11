@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=guthaben\ n
+comment0.target=Spieler(int,\ java.lang.String)
+comment1.params=neu
+comment1.target=void\ guthabenAktualisieren(int)
+comment2.params=
+comment2.target=int\ guthabenAusgeben()
+comment3.params=z
+comment3.target=void\ ziehen(int)
+comment4.params=
+comment4.target=Spieler\ naechsterGeben()
+comment5.params=s
+comment5.target=void\ naechsterSetzen(Spieler)
+comment6.params=
+comment6.target=int\ posGeben()
+comment7.params=e
+comment7.target=void\ feldnrSetzen(int)
+comment8.params=
+comment8.target=int\ feldnrGeben()
+comment9.params=
+comment9.target=java.lang.String\ nameGeben()
+numComments=10

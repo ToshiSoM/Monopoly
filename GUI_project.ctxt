@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GUI_project()
+comment1.params=arg0
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment10.params=
+comment10.target=void\ strassekaufen()
+comment11.params=
+comment11.target=javax.swing.JTextField\ gibFeld()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ generateMenu()
+comment4.params=
+comment4.target=void\ spiel()
+comment5.params=
+comment5.target=void\ naechsterZug()
+comment6.params=e
+comment6.target=void\ kaufen(Spieler)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment8.params=
+comment8.target=void\ run()
+comment9.params=
+comment9.target=void\ weiter()
+numComments=12

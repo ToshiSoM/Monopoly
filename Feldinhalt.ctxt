@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=titel1\ beschreibung1\ k\ m
+comment0.target=Feldinhalt(java.lang.String,\ java.lang.String,\ boolean,\ int)
+comment1.params=
+comment1.target=java.lang.String\ titelGeben()
+comment1.text=\r\n\ Ein\ Beispiel\ einer\ Methode\ -\ ersetzen\ Sie\ diesen\ Kommentar\ mit\ Ihrem\ eigenen\r\n\ \r\n\ @param\ \ y\ \ \ \ ein\ Beispielparameter\ f\u00FCr\ eine\ Methode\r\n\ @return\ \ \ \ \ \ \ \ die\ Summe\ aus\ x\ und\ y\r\n
+comment2.params=
+comment2.target=java.lang.String\ beschreibungGeben()
+comment3.params=
+comment3.target=int\ effekt()
+comment4.params=e
+comment4.target=void\ kaufen(Spieler)
+comment5.params=
+comment5.target=int\ mieteGeben()
+comment6.params=
+comment6.target=boolean\ gekauftGeben()
+comment7.params=
+comment7.target=boolean\ kaufmoeglichGeben()
+comment8.params=
+comment8.target=Spieler\ besitzerGeben()
+numComments=9
